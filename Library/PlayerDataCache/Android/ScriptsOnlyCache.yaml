@@ -65,6 +65,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -190,7 +194,7 @@ ScriptsOnlyBuild:
     className: TMP_FontAsset
   - hash:
       serializedVersion: 2
-      Hash: 3ee4670ef07f96eea2154b1194d83fae
+      Hash: 18c99580056f71e116b084ab3f393b8d
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Button
@@ -641,4 +645,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Game.unity
-  playerPath: C:/VEZDECOD/OneButton/Instal.apk
+  playerPath: C:/Users/1/Desktop/Instal.apk

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2810902343308626602}
   - component: {fileID: 1182588596741112625}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: shotDamage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
