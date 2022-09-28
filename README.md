@@ -8,3 +8,7 @@ Sprites were taken from kenney.nl
 ### A small description of the game:
 The task was to create a game where the goal of the game is to press the button.
 In the game "OneButton" you need to press the button to shoot at targets.
+
+### You can download the game from this link.
+
+*[link](https://anikin02.itch.io/onebutton)*
